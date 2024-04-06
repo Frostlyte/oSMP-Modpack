@@ -3,20 +3,20 @@
   "hotfixesFormat": null,
   "versions": [
     {
-        "id": "1.1.0",
-        "releasedAt": 1712374333,
-        "promotions": {
-            "downloads": {
-                "generic": "https://www.dropbox.com/scl/fi/xdx2os62h10nb4q732cp5/Path-SMP.zip?rlkey=gp8o3m8rb9iqz1lbvxkr8care&dl=1"
-            }
-        }
-    },
-    {
         "id": "1.0.0",
         "releasedAt": 1712373705,
         "promotions": {
             "downloads": {
                 "generic": "https://www.dropbox.com/scl/fi/qxjt77m5z877a3k96vq6o/Origins_SMP_Test_Pack.zip?rlkey=nvx4z9iv6cn24l1yflv3bi3z7&dl=1"
+            }
+        }
+    },
+    {
+        "id": "1.1.0",
+        "releasedAt": 1712374333,
+        "promotions": {
+            "downloads": {
+                "generic": "https://www.dropbox.com/scl/fi/xdx2os62h10nb4q732cp5/Path-SMP.zip?rlkey=gp8o3m8rb9iqz1lbvxkr8care&dl=1"
             }
         }
     }
