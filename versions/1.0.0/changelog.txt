@@ -1,0 +1,2 @@
+The initial alpha release of Paths SMP
+DOES NOT CONTAIN THE UPDATER
