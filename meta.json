@@ -3,6 +3,15 @@
   "hotfixesFormat": null,
   "versions": [
     {
+        "id": "1.1.0",
+        "releasedAt": 1712374333,
+        "promotions": {
+            "downloads": {
+                "generic": "https://www.dropbox.com/scl/fi/xdx2os62h10nb4q732cp5/Path-SMP.zip?rlkey=gp8o3m8rb9iqz1lbvxkr8care&dl=1"
+            }
+        }
+    },
+    {
         "id": "1.0.0",
         "releasedAt": 1712373705,
         "promotions": {
